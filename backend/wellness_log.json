@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2025-11-24T12:02:35.446587",
+        "mood": "better",
+        "energy": "low",
+        "objectives": [
+            "Make a YouTube tutorial on class tenth "
+        ],
+        "summary": "You reported feeling better with low energy. Your goal for today is to create a YouTube tutorial on class tenth. I advised you to take breaks, work in short bursts, and stay hydrated while working on your tutorial."
+    },
+    {
+        "timestamp": "2025-11-24T12:42:46.582084",
+        "mood": "not good",
+        "energy": "low",
+        "objectives": [
+            "Make a YouTube tutorial on class tenth"
+        ],
+        "summary": "Today, you're feeling not good with low energy and a headache, but you have one goal: to make a YouTube tutorial on class tenth . I suggested breaking this goal into smaller steps, such as outlining first, recording short segments, and then editing in parts. Also, remember to drink water and rest your eyes to help with your headache and energy."
+    }
+]
