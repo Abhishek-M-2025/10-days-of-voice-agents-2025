@@ -1,0 +1,26 @@
+[
+    {
+        "id": "metals_nonmetals",
+        "title": "Metals and Non-metals",
+        "summary": "Metals are shiny, malleable, good conductors of heat and electricity. Non-metals are dull, brittle (if solid), and poor conductors. They differ in physical and chemical properties.",
+        "sample_question": "State two physical properties of metals and two of non-metals."
+    },
+    {
+        "id": "physical_properties",
+        "title": "Physical Properties of Matter",
+        "summary": "Physical properties include color, hardness, boiling point, melting point, conductivity, and density. These properties help identify substances without changing their composition.",
+        "sample_question": "What is the difference between melting point and boiling point?"
+    },
+    {
+        "id": "acids_bases",
+        "title": "Acids and Bases",
+        "summary": "Acids have pH < 7 and turn blue litmus red. Bases have pH > 7 and turn red litmus blue. Neutralization occurs when acids and bases react to form salt and water.",
+        "sample_question": "What happens in a neutralization reaction? Give an example."
+    },
+    {
+        "id": "chemical_reactions",
+        "title": "Chemical Reactions",
+        "summary": "A chemical reaction involves breaking and forming chemical bonds, producing new substances. Types include combination, decomposition, displacement, and double displacement.",
+        "sample_question": "Define a decomposition reaction with an example."
+    }
+]
