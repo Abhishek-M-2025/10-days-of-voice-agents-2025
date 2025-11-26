@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What courses do you offer?",
+        "answer": "We offer AWS Cloud Practitioner Path, Microsoft Azure Fundamentals, Google Cloud Associate, Oracle Cloud Architect Associate, Data Science Foundations, Machine Learning Bootcamp, Cybersecurity Essentials, DevOps Engineer Track, and AI Voice Agent Development."
+    },
+    {
+        "question": "How much do your courses cost?",
+        "answer": "Most advanced programs such as AWS, Azure, Oracle, DevOps and Machine Learning Bootcamp cost around $250 USD."
+    },
+    {
+        "question": "Do you offer free content?",
+        "answer": "Yes! We publish weekly free tutorials on AI, cloud computing, and data fundamentals. Paid programs include certification prep, projects, labs, and mentor guidance."
+    },
+    {
+        "question": "Do you offer corporate upskilling?",
+        "answer": "Yes, TechSkill Academy provides enterprise cloud training and AI automation consulting. Pricing varies based on team size and course requirements."
+    }
+]
