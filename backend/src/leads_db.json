@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Raj",
+        "company": null,
+        "email": "abc@gmail.com",
+        "role": "student",
+        "use_case": "Microsoft Azure Fundamentals",
+        "team_size": null,
+        "timeline": "In few weeks",
+        "timestamp": "2025-11-26T10:59:30.071218"
+    },
+    {
+        "name": "Abhishek",
+        "company": null,
+        "email": "abc@gmail.com",
+        "role": "Student",
+        "use_case": "Microsoft Azure Fundamentals, Oracle Cloud Architect Associate",
+        "team_size": null,
+        "timeline": "This week",
+        "timestamp": "2025-11-26T11:19:37.888396"
+    }
+]
