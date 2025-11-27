@@ -1,0 +1,24 @@
+[
+    {
+        "userName": "Abhishek",
+        "securityIdentifier": "98756",
+        "cardEnding": "5501",
+        "transactionName": "TechSquare Electronics",
+        "transactionAmount": "\u20b950,000.00 INR",
+        "transactionTime": "11:45 PM IST",
+        "transactionSource": "flipkart.com",
+        "case_status": "confirmed_fraud",
+        "notes": "User confirmed they did not make the transaction."
+    },
+    {
+        "userName": "Priya",
+        "securityIdentifier": "54321",
+        "cardEnding": "8844",
+        "transactionName": "MetroStyle Apparel",
+        "transactionAmount": "\u20b99,800.00 INR",
+        "transactionTime": "3:10 PM IST",
+        "transactionSource": "abc@shop.com",
+        "case_status": "pending_review",
+        "notes": "Unusual merchant category for this user."
+    }
+]
