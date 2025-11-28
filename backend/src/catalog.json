@@ -1,0 +1,170 @@
+[
+  {
+    "id": "bread_white",
+    "name": "White Bread (400g)",
+    "category": "Groceries",
+    "brand": "HomeBake",
+    "price": 40.0,
+    "unit": "loaf",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "bread_whole",
+    "name": "Whole Wheat Bread (400g)",
+    "category": "Groceries",
+    "brand": "NatureLoaf",
+    "price": 55.0,
+    "unit": "loaf",
+    "tags": [
+      "vegetarian",
+      "whole-grain"
+    ]
+  },
+  {
+    "id": "milk_1l",
+    "name": "Full Cream Milk (1L)",
+    "category": "Groceries",
+    "brand": "Amulish",
+    "price": 60.0,
+    "unit": "litre",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "eggs_6",
+    "name": "Eggs (6 pcs)",
+    "category": "Groceries",
+    "brand": "FarmFresh",
+    "price": 50.0,
+    "unit": "pack",
+    "tags": [
+      "non-veg"
+    ]
+  },
+  {
+    "id": "peanut_butter_200",
+    "name": "Peanut Butter (200g)",
+    "category": "Groceries",
+    "brand": "Nutty",
+    "price": 150.0,
+    "unit": "jar",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "id": "jam_250",
+    "name": "Strawberry Jam (250g)",
+    "category": "Groceries",
+    "brand": "BerryGood",
+    "price": 120.0,
+    "unit": "jar",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "pasta_500",
+    "name": "Penne Pasta (500g)",
+    "category": "Groceries",
+    "brand": "PastaCo",
+    "price": 90.0,
+    "unit": "pack",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "id": "pasta_sauce_350",
+    "name": "Tomato Pasta Sauce (350g)",
+    "category": "Groceries",
+    "brand": "Saucy",
+    "price": 110.0,
+    "unit": "jar",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "id": "olive_oil_500",
+    "name": "Olive Oil (500ml)",
+    "category": "Groceries",
+    "brand": "Oliva",
+    "price": 450.0,
+    "unit": "bottle",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "id": "chips_60",
+    "name": "Potato Chips (60g)",
+    "category": "Snacks",
+    "brand": "Crispio",
+    "price": 30.0,
+    "unit": "pack",
+    "tags": [
+      "snack"
+    ]
+  },
+  {
+    "id": "sandwich_chicken",
+    "name": "Grilled Chicken Sandwich",
+    "category": "Prepared Food",
+    "brand": "DeliHub",
+    "price": 180.0,
+    "unit": "each",
+    "tags": [
+      "non-veg"
+    ]
+  },
+  {
+    "id": "sandwich_veg",
+    "name": "Veg Sandwich",
+    "category": "Prepared Food",
+    "brand": "DeliHub",
+    "price": 160.0,
+    "unit": "each",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "apple_1kg",
+    "name": "Apples (1kg)",
+    "category": "Groceries",
+    "brand": "FreshFarms",
+    "price": 120.0,
+    "unit": "kg",
+    "tags": [
+      "vegan",
+      "fruit"
+    ]
+  },
+  {
+    "id": "banana_1doz",
+    "name": "Bananas (1 dozen)",
+    "category": "Groceries",
+    "brand": "FreshFarms",
+    "price": 60.0,
+    "unit": "dozen",
+    "tags": [
+      "vegan",
+      "fruit"
+    ]
+  },
+  {
+    "id": "butter_200",
+    "name": "Salted Butter (200g)",
+    "category": "Groceries",
+    "brand": "DairyPure",
+    "price": 140.0,
+    "unit": "pack",
+    "tags": [
+      "dairy"
+    ]
+  }
+]
