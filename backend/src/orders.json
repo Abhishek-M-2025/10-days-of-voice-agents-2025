@@ -1,0 +1,38 @@
+[
+  {
+    "id": "order-e48e4bf4",
+    "items": [
+      {
+        "product_id": "tshirt-501",
+        "name": "White Cotton T-Shirt",
+        "unit_price": 600,
+        "quantity": 1,
+        "line_total": 600,
+        "attrs": {
+          "size": "L"
+        }
+      },
+      {
+        "product_id": "laptop-801",
+        "name": "HP Victus Gaming Laptop",
+        "unit_price": 65000,
+        "quantity": 1,
+        "line_total": 65000,
+        "attrs": {}
+      },
+      {
+        "product_id": "shoe-302",
+        "name": "White Casual Sneakers",
+        "unit_price": 1899,
+        "quantity": 1,
+        "line_total": 1899,
+        "attrs": {
+          "size": "7"
+        }
+      }
+    ],
+    "total": 67499,
+    "currency": "INR",
+    "created_at": "2025-11-30T07:17:44.246840Z"
+  }
+]
